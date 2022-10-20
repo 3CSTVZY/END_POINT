@@ -1,0 +1,16 @@
+/Users/maximalexeev/Desktop/EndPoint/Code/bin/Debug/net6.0/Code
+/Users/maximalexeev/Desktop/EndPoint/Code/bin/Debug/net6.0/Code.deps.json
+/Users/maximalexeev/Desktop/EndPoint/Code/bin/Debug/net6.0/Code.runtimeconfig.json
+/Users/maximalexeev/Desktop/EndPoint/Code/bin/Debug/net6.0/Code.dll
+/Users/maximalexeev/Desktop/EndPoint/Code/bin/Debug/net6.0/ref/Code.dll
+/Users/maximalexeev/Desktop/EndPoint/Code/bin/Debug/net6.0/Code.pdb
+/Users/maximalexeev/Desktop/EndPoint/Code/obj/Debug/net6.0/Code.GlobalUsings.g.cs
+/Users/maximalexeev/Desktop/EndPoint/Code/obj/Debug/net6.0/Code.csproj.AssemblyReference.cache
+/Users/maximalexeev/Desktop/EndPoint/Code/obj/Debug/net6.0/Code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maximalexeev/Desktop/EndPoint/Code/obj/Debug/net6.0/Code.AssemblyInfoInputs.cache
+/Users/maximalexeev/Desktop/EndPoint/Code/obj/Debug/net6.0/Code.AssemblyInfo.cs
+/Users/maximalexeev/Desktop/EndPoint/Code/obj/Debug/net6.0/Code.csproj.CoreCompileInputs.cache
+/Users/maximalexeev/Desktop/EndPoint/Code/obj/Debug/net6.0/Code.dll
+/Users/maximalexeev/Desktop/EndPoint/Code/obj/Debug/net6.0/ref/Code.dll
+/Users/maximalexeev/Desktop/EndPoint/Code/obj/Debug/net6.0/Code.pdb
+/Users/maximalexeev/Desktop/EndPoint/Code/obj/Debug/net6.0/Code.genruntimeconfig.cache
